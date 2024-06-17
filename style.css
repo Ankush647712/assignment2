@@ -1,0 +1,68 @@
+/* Body styling */
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-image: url(🔥\ Shiddat\ Movie\ Wallpapers\ on\ WallpaperSafari.jpeg);
+    background-size: cover;
+}
+
+/* Header styling */
+header {
+    background-color: #333;
+    color: hsl(0, 78%, 46%);
+    padding: 20px;
+    text-align: center;
+    
+}
+
+header h1 {
+    font-size: 35px;
+    margin-bottom: 10px;
+}
+header a {
+    color: #257dca;
+    
+}
+
+
+/* Main content styling */
+main {
+    color: red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 15px;
+}
+
+section {
+    background-color: white;
+    padding: 22px;
+    margin-bottom: 22px;
+    box-shadow: 0 0 10px rgba(161, 35, 35, 0.2);
+}
+
+h2 {
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    
+    color: #337ab7;
+}
+
+/* Footer styling */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+/* Specific id styling */
+#a1,#a2{
+    color: brown;
+}
